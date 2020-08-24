@@ -13,40 +13,18 @@
 ![Size](https://img.shields.io/github/repo-size/garimasingh128/draw)
 
 
-
-
-## Getting Started 🚀
-
-``` bash
-Simply run index.html file on your browser.
-```
-## Contributions and PR
-
- - PRs should be generated against `master`
-
-## Snapshots
-
-
-<img src="assets/screenshots/ss-1.png" height="250px">
-
-
-## Deploys
-
-![Netlify](https://www.netlify.com/img/global/badges/netlify-color-accent.svg)
-
-
-
-
 ## Features 
 ✔️ Multi Color Pallete
 ✔️ Brush size control
 ✔️ Clear all
 ✔️ Download drawing
 
-To view a live example, **[click here](https://quirky-gates-1089b2.netlify.app/)**
 
+## Run 🚀
 
-
+``` 
+Run index.html file on your browser.
+```
 
 
 ## Technologies used 🛠️
@@ -56,6 +34,24 @@ To view a live example, **[click here](https://quirky-gates-1089b2.netlify.app/)
 - [p5.js](https://p5js.org)
 
 **Thanks to [Florin Pop](https://www.florin-pop.com) for his creative project ideas.**
+
+
+## Snapshots
+
+<img src="assets/screenshots/ss-1.png" height="250px">
+
+
+To view a live example, **[click here](https://quirky-gates-1089b2.netlify.app/)**
+
+
+## Deployed
+
+![Netlify](https://www.netlify.com/img/global/badges/netlify-color-accent.svg)
+
+
+## Contributions and PRs
+
+ - PRs should be generated against `master`
 
 
 ### Contributors
