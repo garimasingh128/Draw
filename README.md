@@ -1,5 +1,5 @@
 # Draw
-<img src="canva.jpg" height="250px">
+<img src="assets/img/canva.jpg" height="250px">
 
 ![Author](https://img.shields.io/badge/author-garimasingh128-orange)
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
@@ -13,40 +13,18 @@
 ![Size](https://img.shields.io/github/repo-size/garimasingh128/draw)
 
 
-
-
-## Getting Started 🚀
-
-``` bash
-Simply run index.html file on your browser.
-```
-## Contributions and PR
-
- - PRs should be generated against `master`
-
-## Snapshots
-
-
-<img src="Screenshot (430).png" height="250px">
-
-
-## Deploys
-
-![Netlify](https://www.netlify.com/img/global/badges/netlify-color-accent.svg)
-
-
-
-
 ## Features 
-✔️ Different colour choices
-✔️ Radius width
+✔️ Multi Color Pallete
+✔️ Brush size control
 ✔️ Clear all
-✔️ Download the image locally as png
-
-To view a live example, **[click here](https://quirky-gates-1089b2.netlify.app/)**
+✔️ Download drawing
 
 
+## Run 🚀
 
+``` 
+Run index.html file on your browser.
+```
 
 
 ## Technologies used 🛠️
@@ -56,3 +34,29 @@ To view a live example, **[click here](https://quirky-gates-1089b2.netlify.app/)
 - [p5.js](https://p5js.org)
 
 **Thanks to [Florin Pop](https://www.florin-pop.com) for his creative project ideas.**
+
+-----
+
+## Snapshots
+
+<img src="assets/screenshots/ss-1.png" height="250px">
+
+
+To view a live example, **[click here](https://quirky-gates-1089b2.netlify.app/)**
+
+
+## Deployed
+
+![Netlify](https://www.netlify.com/img/global/badges/netlify-color-accent.svg)
+
+
+-----
+
+## Contributions and PRs
+
+ - PRs should be generated against `master`
+
+
+### Contributors
+
+- [alpha74](https://www.github.com/alpha74)

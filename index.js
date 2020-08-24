@@ -5,11 +5,10 @@ const paths = [];
 let currentPath = [];
 
 function setup() {
- let c=  	createCanvas(window.innerWidth, window.innerHeight);
-background(255);
-//saveCanvas(c, 'myCanvas', 'jpg');
-download.addEventListener('click', () => {
-saveCanvas(c, 'myCanva', 'jpg');
+	let c=  	createCanvas(window.innerWidth, window.innerHeight);
+	background(255);
+	download.addEventListener('click', () => {
+	saveCanvas(c, 'myCanva', 'jpg');
 });
 }
 
