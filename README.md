@@ -35,6 +35,7 @@ Run index.html file on your browser.
 
 **Thanks to [Florin Pop](https://www.florin-pop.com) for his creative project ideas.**
 
+-----
 
 ## Snapshots
 
@@ -48,6 +49,8 @@ To view a live example, **[click here](https://quirky-gates-1089b2.netlify.app/)
 
 ![Netlify](https://www.netlify.com/img/global/badges/netlify-color-accent.svg)
 
+
+-----
 
 ## Contributions and PRs
 
