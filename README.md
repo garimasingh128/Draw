@@ -1,5 +1,5 @@
 # Draw
-<img src="canva.jpg" height="250px">
+<img src="assets/img/canva.jpg" height="250px">
 
 ![Author](https://img.shields.io/badge/author-garimasingh128-orange)
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
@@ -27,7 +27,7 @@ Simply run index.html file on your browser.
 ## Snapshots
 
 
-<img src="Screenshot (430).png" height="250px">
+<img src="assets/screenshots/ss-1.png" height="250px">
 
 
 ## Deploys
@@ -38,10 +38,10 @@ Simply run index.html file on your browser.
 
 
 ## Features 
-✔️ Different colour choices
-✔️ Radius width
+✔️ Multi Color Pallete
+✔️ Brush size control
 ✔️ Clear all
-✔️ Download the image locally as png
+✔️ Download drawing
 
 To view a live example, **[click here](https://quirky-gates-1089b2.netlify.app/)**
 
@@ -56,3 +56,8 @@ To view a live example, **[click here](https://quirky-gates-1089b2.netlify.app/)
 - [p5.js](https://p5js.org)
 
 **Thanks to [Florin Pop](https://www.florin-pop.com) for his creative project ideas.**
+
+
+### Contributors
+
+- [alpha74](https://www.github.com/alpha74)
