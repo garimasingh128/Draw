@@ -19,6 +19,8 @@
 ✔️ Clear all
 ✔️ Download drawing
 
+## Public Gitter channel 🛠️
+Join here: https://gitter.im/KWoC2020/Draw
 
 ## Run 🚀
 
