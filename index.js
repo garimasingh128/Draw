@@ -46,6 +46,14 @@ clear.addEventListener('click', () => {
 	background(255);
 });
 
+light.addEventListener('click', () => {
+	background(255);
+});
+
+dark.addEventListener('click', () => {
+	background(0);
+});
+
 download.addEventListener('click', () => {
 saveCanvas(c, 'myCanva', 'jpg');
 });
