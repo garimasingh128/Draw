@@ -41,9 +41,9 @@ function mousePressed() {
 	paths.push(currentPath);
 }
 
-// function to change the color of text in label
+// function to change the color of all text labels
 function allLabelColor(textColor){
-	var all = document.getElementsByTagName("label");
+	var labels = document.getElementsByTagName("label");
 	for (var i=0, max=all.length; i < max; i++) {
  		all[i].style.color = textColor;
 	}
