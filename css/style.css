@@ -23,9 +23,9 @@ h4 {
 }
 
 .sidebar {
-    background-color: #222;
+    background-color: #e6e6e6;
     box-shadow: 0px 0px 10px rgba(30, 30, 30, 0.7);
-    color: #fff;
+    color: black;
     position: absolute;
     left: 0;
     top: 0;
@@ -67,8 +67,8 @@ h4 {
 }
 
 footer {
-    background-color: #222;
-    color: #fff;
+    background-color: #e6e6e6;
+    color: black;
     font-size: 14px;
     bottom: 0;
     position: fixed;
@@ -83,7 +83,7 @@ footer p {
 }
 
 footer i {
-    color: red;
+    color: red !important ;
 }
 
 footer a {
