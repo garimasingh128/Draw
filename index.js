@@ -41,6 +41,14 @@ function mousePressed() {
 	paths.push(currentPath);
 }
 
+// function to change the color of text in label
+function allLabelColor(textColor){
+	var all = document.getElementsByTagName("label");
+	for (var i=0, max=all.length; i < max; i++) {
+ 		all[i].style.color = textColor;
+	}
+}
+
 clear.addEventListener('click', () => {
 	paths.splice(0);
 	background(255);
@@ -48,10 +56,20 @@ clear.addEventListener('click', () => {
 
 light.addEventListener('click', () => {
 	background(255);
+	select(".sidebar").style("background-color","#e6e6e6");
+	select("footer").style("background-color","#e6e6e6");
+	select("canvas").style("background-color","white");
+	allLabelColor("black");
+	select("footer").style("color","black");
 });
 
 dark.addEventListener('click', () => {
 	background(0);
+	select(".sidebar").style("background-color","#222");
+	select("footer").style("background-color","#222");
+	select("canvas").style("background-color","black");
+	allLabelColor("white");
+	select("footer").style("color","white");
 });
 
 download.addEventListener('click', () => {
