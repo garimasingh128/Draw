@@ -12,6 +12,7 @@
 ![Language](https://img.shields.io/github/languages/top/garimasingh128/draw)
 ![Size](https://img.shields.io/github/repo-size/garimasingh128/draw)
 
+### 🚀 Make all PRs' to develop branch only. Lets maintain a stable branch 'master' for now! 🚀
 
 ## Features 
 ✔️ Multi Color Pallete
