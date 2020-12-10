@@ -44,8 +44,8 @@ function mousePressed() {
 // function to change the color of all text labels
 function allLabelColor(textColor){
 	var labels = document.getElementsByTagName("label");
-	for (var i=0, max=all.length; i < max; i++) {
- 		all[i].style.color = textColor;
+	for (var i=0 ; i < labels.length; i++) {
+ 		labels[i].style.color = textColor;
 	}
 }
 
