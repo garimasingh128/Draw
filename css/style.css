@@ -22,10 +22,10 @@ h4 {
     user-select: none;
 }
 
-.sidebar {
-    background-color: black;
+.sidebar{
+    background-color :#e6e6e6 ;
     box-shadow: 0px 0px 10px rgba(30, 30, 30, 0.7);
-    color: #fff;
+    color: black;
     position: absolute;
     left: 0;
     top: 0;
@@ -58,8 +58,6 @@ h4 {
     margin-top: auto;
 }
 
-
-
 .sidebar label {
     display: block;
     font-size: 10px;
@@ -67,8 +65,8 @@ h4 {
 }
 
 footer {
-    background-color: #222;
-    color: #fff;
+    background-color: #e6e6e6;
+    color: black;
     font-size: 14px;
     bottom: 0;
     position: fixed;
@@ -83,10 +81,10 @@ footer p {
 }
 
 footer i {
-    color: red;
+    color: red !important; 
 }
 
 footer a {
-    color: #3c97bf;
+    color: #3c97bf !important;
     text-decoration: none;
 }
