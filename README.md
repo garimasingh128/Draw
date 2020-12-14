@@ -45,12 +45,13 @@ Run index.html file on your browser.
 <img src="assets/screenshots/ss-1.png" height="250px">
 
 
-To view a live example, **[click here](https://quirky-gates-1089b2.netlify.app/)**
+To view a live example, **[Netlify Version](https://quirky-gates-1089b2.netlify.app/)** *or* **[Heroku Version](https://draw-with-garima.herokuapp.com/)**
 
 
 ## Deployed
 
 ![Netlify](https://www.netlify.com/img/global/badges/netlify-color-accent.svg)
+![Heroku](https://www.herokucdn.com/deploy/button.svg)
 
 
 -----
@@ -63,3 +64,4 @@ To view a live example, **[click here](https://quirky-gates-1089b2.netlify.app/)
 ### Contributors
 
 - [alpha74](https://www.github.com/alpha74)
+- [Siddhant-K-code](https://www.github.com/Siddhant-K-code)
