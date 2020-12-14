@@ -58,7 +58,8 @@ To view a live example, **[Netlify Version](https://quirky-gates-1089b2.netlify.
 
 ## Contributions and PRs
 
- - PRs should be generated against `master`
+ - PRs should be generated against `develop`
+### ALL KWOC 2020 PARTICIPANTS, PLEASE MAKE ALL PRS AGAINST DEVELOP BRANCH ONLY!
 
 
 ### Contributors
