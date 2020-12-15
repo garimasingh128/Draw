@@ -152,6 +152,8 @@ footer a {
     border-radius: 50%;
   }
 
-  #download:hover{
-   filter:invert(100%)
-  }
+
+#download:hover{
+    filter:invert(100%);
+}
+
