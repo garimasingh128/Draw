@@ -53,22 +53,23 @@ clear.addEventListener('click', () => {
 	background(255);
 });
 
-light.addEventListener('click', () => {
-	background(255);
-	select(".sidebar").style("background-color","#e6e6e6");
-	select("footer").style("background-color","#e6e6e6");
-	select("canvas").style("background-color","white");
-	allLabelColor("black");
-	select("footer").style("color","black");
-});
-
-dark.addEventListener('click', () => {
-	background(0);
-	select(".sidebar").style("background-color","#222");
-	select("footer").style("background-color","#222");
-	select("canvas").style("background-color","black");
-	allLabelColor("white");
-	select("footer").style("color","white");
+dark.addEventListener('change', () => {
+	if(document.getElementById("dark").checked == true){
+		background(0);
+		select(".sidebar").style("background-color","#222");
+		select("footer").style("background-color","#222");
+		select("canvas").style("background-color","black");
+		allLabelColor("white");
+		select("footer").style("color","white");
+	}
+	else{
+		background(255);
+		select(".sidebar").style("background-color","#e6e6e6");
+		select("footer").style("background-color","#e6e6e6");
+		select("canvas").style("background-color","white");
+		allLabelColor("black");
+		select("footer").style("color","black");
+	}
 });
 
 download.addEventListener('click', () => {
