@@ -153,3 +153,7 @@ footer a {
   .slider.round:before {
     border-radius: 50%;
   }
+
+#download:hover{
+    filter:invert(100%);
+}
