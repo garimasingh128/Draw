@@ -22,8 +22,8 @@ h4 {
     user-select: none;
 }
 
-.sidebar{
-    background-color :#e6e6e6 ;
+.sidebar {
+    background-color: #e6e6e6;
     box-shadow: 0px 0px 10px rgba(30, 30, 30, 0.7);
     color: black;
     position: absolute;
@@ -81,7 +81,7 @@ footer p {
 }
 
 footer i {
-    color: red !important; 
+    color: red !important;
 }
 
 footer a {
